@@ -1,2 +1,2 @@
 # GhostNametags
- Shows Ghost nametags.
+ ChatTriggers Module: Shows Ghost nametags on Hypixel Skyblock.
