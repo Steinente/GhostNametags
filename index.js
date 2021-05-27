@@ -13,6 +13,8 @@ const SharedMonsterAttributes = Java.type('net.minecraft.entity.SharedMonsterAtt
 
 const ModuleName = 'GhostNametags';
 const Version = JSON.parse(FileLib.read(`${Config.modulesFolder}/${ModuleName}/metadata.json`)).version;
+const StartSeparator = `${Color.YELLOW}------------ ${Color.GOLD}${ModuleName} ${Color.YELLOW}------------${Color.LINE_BREAK}`;
+const EndSeparator = `${Color.YELLOW}--------------------------------------`;
 
 let creeperList = [];
 
