@@ -1,0 +1,8 @@
+{
+  "name": "GhostNametags",
+  "creator": "Steinente / EnteStein",
+  "description": "Shows Ghost nametags.",
+  "version": "0.0.1",
+  "entry": "index.js",
+  "requires": ["SkyblockUtilities", "requestV2"]
+}

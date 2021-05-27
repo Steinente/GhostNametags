@@ -1,0 +1,2 @@
+# GhostNametags
+ Shows Ghost nametags.
